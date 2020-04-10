@@ -1,5 +1,5 @@
 var P = window.location.pathname;
-var h = window.location.href;
+var H = window.location.href;
 function moved(){
 	if (P == "/kpnopener")
 	{
