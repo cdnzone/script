@@ -8,7 +8,6 @@
 <meta content='105ca5d4a576be8f' name='yandex-verification'/>
 <meta content='6caa4cfadb60fb12' name='yandex-verification'/>
 <meta content='2yCGnQh_-Yz6-6oHDuG7Mm1vRkwLPrtNATXvj9jb_mg' name='google-site-verification'/>
-<link href='//androids.netlify.com' rel='dns-prefetch'/>
 <link href='https://cdnzone.github.io' rel='dns-prefetch'/>
 <link href='//www.blogger.com' rel='dns-prefetch'/>
 <!-- 404 -->
@@ -21,7 +20,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 </script>
 </b:if>
 <b:if cond='data:blog.pageName == &quot;Downloads&quot;'>
-  <link as='script' href='//androids.netlify.com/script/unlock.site.js' rel='preload'/>
+  <link as='script' href='//androids.netlify.app/script/unlock.site.js' rel='preload'/>
 <script type='text/javascript'>
 //<![CDATA[
 eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('Q i=["\\R\\S\\t\\F\\G\\l\\T\\B\\w\\t\\w\\C\\D\\t\\l\\U\\F\\H\\x\\x\\V\\l\\W\\l\\X\\x\\t\\x\\Y\\l\\j\\l\\I\\H\\D\\G\\l\\m\\B\\w\\n\\w\\C\\Z\\10\\11\\l\\9\\B\\t\\C\\D","\\h","\\o\\u\\p\\r\\k","\\h\\o\\m\\s\\r\\u\\k\\h\\n\\y\\m\\J\\v\\9\\q\\k\\h\\12\\j\\s\\h\\m\\s\\9\\j\\k\\9\\K\\p\\9\\v\\9\\q\\k\\h\\o\\s\\m\\h\\j\\q\\n\\s\\y\\r\\n\\o\\h\\q\\9\\k\\p\\r\\13\\L\\h\\m\\y\\v\\h\\J\\q\\p\\y\\m\\14\\h\\o\\r\\k\\9\\h\\16\\o\\h\\E\\9\\k\\K\\p\\9\\v\\9\\q\\k\\o\\17\\L\\18\\j\\E\\19\\j\\v\\9\\h\\M\\9\\j\\n\\h\\j\\u\\u\\9\\q\\n\\1a\\M\\r\\p\\n","\\s\\9\\u\\p\\j\\m\\9","","\\N\\1b\\1c","\\N\\I","\\E"];1d(z(b,c,d,e,f,g){f=z(a){A a.1e(c)};O(!i[5][i[4]](/^/,1f)){P(d--){g[f(d)]=e[d]||f(d)};e=[z(a){A g[a]}];f=z(){A i[6]};d=1};P(d--){O(e[d]){b=b[i[4]](1g 1h(i[7]+f(d)+i[7],i[8]),e[d])}};A b}(i[0],15,15,i[3][i[2]](i[1]),0,{}))',62,80,'|||||||||x65||||||||x7C|_0xbd15|x61|x74|x2E|x63|x64|x73|x6C|x6E|x69|x72|x31|x70|x6D|x27|x2F|x6F|function|return|x28|x29|x3B|x67|x3D|x32|x22|x62|x75|x45|x79|x68|x5C|if|while|var|x33|x20|x34|x35|x36|x37|x38|x39|x5B|x30|x5D|x76|x66|x6B||x6A|x42|x54|x4E|x43|x77|x2B|eval|toString|String|new|RegExp'.split('|'),0,{}))
