@@ -1,0 +1,13 @@
+android.permission.INTERNET
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.vending.BILLING
+com.android.vending.CHECK_LICENSE
+com.google.android.c2dm.permission.RECEIVE
+com.tinyco.potter.permission.C2D_MESSAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.VIBRATE
