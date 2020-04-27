@@ -10,4 +10,4 @@ com.android.vending.CHECK_LICENSE
 com.google.android.c2dm.permission.RECEIVE
 com.tinyco.potter.permission.C2D_MESSAGE
 android.permission.RECEIVE_BOOT_COMPLETED
-android.permission.VIBRATE
+android.permission.VIBRATES
